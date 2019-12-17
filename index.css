@@ -1,0 +1,39 @@
+body {
+    margin: 50px 120px;
+    padding: 6px 5px;
+    border: 3px groove #d1436d;
+    border-radius: 0px 70px 0px 70px;
+    font-family: 'Playfair Display', serif;
+    background: #ffffff;
+    color:#444343;
+    background-image:url("CodeClanNig\flowers-67839_960_720 - Copy.jpg");
+    background-size:cover;
+}
+
+h1{
+    color:#d64571;
+}
+
+h2{
+    color:#d64571;
+}
+
+h4{
+    color:#e65c85;
+}
+
+img{
+    border-radius:50% 43% 50% 43%;
+    height: 320px;
+    width: 290px;
+    
+}
+
+.up{
+    margin-top: -15%;
+    margin-left: 20%;
+}
+
+.right{
+    margin-left: 5%;
+}
